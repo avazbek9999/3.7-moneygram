@@ -53,3 +53,18 @@ body{
     width: 100%;
     max-width: 100px;
 }
+ 
+@media only screen and (max-width: 471px){
+    .label-select-from{
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .label-select-to{
+        width: 100%;
+        max-width: 400px;
+    }
+    .money_selectbtn{
+        display: none;
+    }
+} 
